@@ -331,9 +331,9 @@ function osc_add_ebs_buttons_to_tinymce() {
     if (get_user_option('rich_editing') == 'true') {
         add_filter("mce_external_plugins", "osc_add_ebs_plugin");
         if($ebsp_editor_opt=='icon'){
-            add_filter('mce_buttons_3', 'osc_register_ebs_button',1375.261);
+            add_filter('mce_buttons_3', 'osc_register_ebs_button',1375);
         } else{
-            add_filter('mce_buttons', 'osc_register_ebs_dropdown',1375.261);
+            add_filter('mce_buttons', 'osc_register_ebs_dropdown',1375);
         }
     }
 }
