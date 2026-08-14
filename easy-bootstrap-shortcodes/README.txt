@@ -4,7 +4,7 @@ Link: http://www.osCitasthemes.in
 Tags: Wordpress Shortcodes, Wordpress Bootstrap, Wordpress Bootstrap Shortcode, Bootstrap, Responsive pages, Editor plugin, Bootstrap Shortcode, TinyMCE
 Requires at least: 6.5
 Tested up to: 7.0
-Stable tag: 5.0.1
+Stable tag: 5.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.oscitasthemes.in/support-our-free-plugins/
@@ -157,12 +157,12 @@ It's that simple ... just what the name suggests
 
 = 5.0.0 =
 
-* [Update] = Backward compatibility: = Existing shortcode syntax and content remain supported, so previously created content should continue to work as expected
-* [Update] = Improved stability: = Added additional safeguards to help prevent errors and improve compatibility with different plugin configurations.
-* [Update] = Improved styling: = Updated the way dynamic styles are handled for better performance, caching, and reliability.
-* [Update] = Improved editor support: = Added support for inserting Easy Bootstrap Shortcodes through the Gutenberg/block editor while maintaining existing Classic Editor
-* [Update] = Improved compatibility: = Updated the plugin for better compatibility with newer WordPress and PHP versions.
-* [Update] = Security improvements: = Strengthened input validation and output handling across all shortcodes to improve protection against potentially unsafe content.
+* [Update] Backward compatibility: Existing shortcode syntax and content remain supported, so previously created content should continue to work as expected
+* [Update] Improved stability: Added additional safeguards to help prevent errors and improve compatibility with different plugin configurations.
+* [Update] Improved styling: Updated the way dynamic styles are handled for better performance, caching, and reliability.
+* [Update] Improved editor support: Added support for inserting Easy Bootstrap Shortcodes through the Gutenberg/block editor while maintaining existing Classic Editor
+* [Update] Improved compatibility: Updated the plugin for better compatibility with newer WordPress and PHP versions.
+* [Update] Security improvements: Strengthened input validation and output handling across all shortcodes to improve protection against potentially unsafe content.
 
 = 4.5.4 =
 
